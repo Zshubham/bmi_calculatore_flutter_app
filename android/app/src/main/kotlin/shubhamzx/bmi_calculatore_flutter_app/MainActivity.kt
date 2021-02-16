@@ -1,0 +1,6 @@
+package shubhamzx.bmi_calculatore_flutter_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
